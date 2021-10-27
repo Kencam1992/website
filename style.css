@@ -1,0 +1,70 @@
+body {
+  font-family: 'Comfortaa', cursive;
+  line-height: normal;
+  background-image: url(Kenswift.png);
+  background-size: 140px 140px;
+}
+
+h1 {
+  font-size: medium;
+  color: rgb(40, 47, 87);
+  text-align: center;
+}
+
+h2 {
+  font-size: medium;
+  color: rgb(40, 47, 87);
+  text-align: center;
+}
+
+p {
+  color: rgb(17, 17, 17);
+  text-align: center
+}
+.logo-container {
+  text-align-last: center;
+}
+#logo {
+  width: 200px;
+  height: 200px;
+  border: solid;
+  border-radius: 50%;
+}
+
+.link-container {
+  border: solid;
+  background: white;
+  text-align: center;
+  padding: none;
+}
+
+.welcome-container {
+  background: white;
+  border: solid;
+  border-radius: 3px;
+  padding: 30px;
+}
+
+li {
+text-align: center;
+text-decoration: none;
+}
+
+.follow-container {
+  background: white;
+  border: solid;
+}
+/* .maindiv{
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  flex-wrap: wrap;
+  z-index: -1;
+}
+
+.img{
+  width: 240px;
+  height: 240px;
+  margin: 12px 0 12px 0;
+  border: solid;
+} */
